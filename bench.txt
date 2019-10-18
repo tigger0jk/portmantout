@@ -1,0 +1,18 @@
+Success! But I needed 41405 separate portmanteaus :(
+And that was 623522 characters! (of 931823, 66.91% of the size)
+I skipped 24319 words that were already substrs.
+Took 432.2s
+
+--------------------------------------------------
+
+
+39419 particles,
+600664 characters
+
+skipping words that are already substrings (expensive):
+
+38324 particles,
+577645 characters (61.99% efficiency)
+16387 words skipped
+
+And assembled, 630408 bytes (67.7% eff.)
